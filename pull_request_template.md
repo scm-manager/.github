@@ -7,7 +7,7 @@ Describe the big picture of your changes here to communicate to the maintainers 
 _Put an `x` in the boxes that apply. You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code._
 
 - [ ] PR is well described
-- [ ] Target branch is points not to master (in most cases develop should bet the target of choice) 
+- [ ] Target branch is not master (in most cases develop should bet the target of choice) 
 - [ ] Code does not conflict with target branch
 - [ ] New code is covered with unit tests
 - [ ] CHANGELOG.md updated
