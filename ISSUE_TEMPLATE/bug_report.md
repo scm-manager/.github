@@ -1,3 +1,8 @@
+---
+name: Bug report
+about: Use this template for reporting bugs.
+---
+
 ## Issue description
 
 If you found a bug or want to have a new feature implemented, please take your time and look whether this issue has been discussed in another issue or our mailing list already.
