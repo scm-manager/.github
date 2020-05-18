@@ -21,7 +21,7 @@ What plugins and what versions do you use? Are you using a server like tomcat? D
 
 #### Which operating system, browser and versions do you use?
 
-Windows, Max or Linux? Chrome, Firefox or IE? What versions?
+Windows, Mac or Linux? Chrome, Firefox or IE? What versions?
 
 #### Log of the bug
 
