@@ -57,5 +57,3 @@ Contributions must be licensed under the same license as code, the [MIT License]
 * Please provide as much context as possible when you open an issue. The information you provide must be comprehensive enough to reproduce that issue for the assignee. Therefore, contributors should use but aren't restricted to the issue template provided by the project maintainers.
 
 * When creating an issue, try using one of our issue templates which already contain some guidelines on which content is expected to process the issue most efficiently.
-
-* Please apply one or more applicable [labels](https://github.com/scm-manager/scm-manager/labels) to your issue so that all community members are able to cluster the issues better.
