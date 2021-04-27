@@ -12,6 +12,7 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 - [ ] Target branch is not master (in most cases develop should bet the target of choice) 
 - [ ] Code does not conflict with target branch
 - [ ] New code is covered with unit tests
+- [ ] New ui components are tested inside the storybook (module ui-components only) 
 - [ ] [Changelog entry file](https://github.com/scm-manager/changelog#changelog-entry-files) created in `gradle/changelog` or CHANGELOG.md is updated for plugins
 - [ ] Documentation updated (only necessary for new features or changed behaviour)
 
