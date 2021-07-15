@@ -9,11 +9,10 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 **Contributor**:
 - [ ] PR is well described and the description can be used as a commit message on squash
 - [ ] Related issues linked to PR if existing and labels set
-- [ ] Target branch is not master (in most cases develop should bet the target of choice) 
-- [ ] Code does not conflict with target branch
 - [ ] New code is covered with unit tests
 - [ ] New ui components are tested inside the storybook (module ui-components only) 
 - [ ] [Changelog entry file](https://github.com/scm-manager/changelog#changelog-entry-files) created in `gradle/changelog` or CHANGELOG.md is updated for plugins
+- [ ] Feature has been tested with different permissions
 - [ ] Documentation updated (only necessary for new features or changed behaviour)
 
 **Reviewer**:
