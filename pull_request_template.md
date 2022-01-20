@@ -11,7 +11,7 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 - [ ] Related issues linked to PR if existing and labels set
 - [ ] New code is covered with unit tests
 - [ ] New ui components are tested inside the storybook (module ui-components only) 
-- [ ] [Changelog entry file](https://github.com/scm-manager/changelog#changelog-entry-files) created in `gradle/changelog` or CHANGELOG.md is updated for plugins
+- [ ] [Changelog entry file](https://github.com/scm-manager/changelog#changelog-entry-files) created in `gradle/changelog`
 - [ ] Feature has been tested with different permissions
 - [ ] Documentation updated (only necessary for new features or changed behaviour)
 
