@@ -26,5 +26,6 @@ Windows, Mac or Linux? Chrome, Firefox or IE? What versions?
 #### Log of the bug
 
 Please remember to check for any sensible information in any logs you provide like repository names!
+Consider to use the [support plugin](https://scm-manager.org/plugins/scm-support-plugin/) to easily create trace logs.
 
 #### Further information like screenshots
