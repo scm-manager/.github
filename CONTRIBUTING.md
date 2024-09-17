@@ -27,12 +27,12 @@ We kindly ask you to follow the [Pull Request Checklist](#Pull-Request-Checklist
 ## Contributing Code
 
 You are welcome to contribute code in order to fix a bug or to implement a new feature.
-Contributions must be licensed under the [MIT License](LICENSE.txt)
+Contributions must be licensed under [AGPL-3.0-only](LICENSE.txt)
 
 ## Contributing Documentation
 
 You are welcome to contribute documentation to the project.
-Contributions must be licensed under the same license as code, the [MIT License](LICENSE.txt)
+Contributions must be licensed under the same license as code, the [AGPL-3.0-only](LICENSE.txt)
 
 ## Pull Request Checklist
 
