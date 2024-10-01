@@ -1,2 +1,2 @@
 # .github
-Template and files for the health of the SCM-Manager community
+Template and files for the health of the SCM-Manager community.
